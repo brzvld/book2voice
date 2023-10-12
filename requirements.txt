@@ -1,0 +1,3 @@
+Python 3.7.3
+mpg321
+gTTS(Google Text-to-Speech)
